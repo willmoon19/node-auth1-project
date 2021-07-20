@@ -28,7 +28,7 @@ There are two possible ways to submit your project. Your instructor should have 
 ### Task 2: Minimum Viable Product
 
 #### 2A - Database Access Functions
-
+a
 Write the following user access functions inside `api/users/users-model.js`:
 
 - [ ] `find`
